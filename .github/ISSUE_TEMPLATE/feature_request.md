@@ -4,8 +4,8 @@ about: Suggest an idea for this project
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**We are looking for any contribution to improve the product features and quality, please let us know.**
+A clear and concise description of what the idea is. Ex. I would love to have this feature [...]
 
 **Mandatory Info (please complete the following information):**
  - Product: [e.g. Mstore, ListApp]
